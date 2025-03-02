@@ -1,0 +1,7 @@
+langchain
+langchain-community
+pypdf
+streamlit
+faiss-cpu
+boto3
+langchain-aws
